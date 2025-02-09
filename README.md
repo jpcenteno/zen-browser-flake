@@ -1,5 +1,13 @@
 # Zen Browser
 
+## DEPRECATED
+
+I made this but never took care of keeping up with the updates. Now, I'm using
+[0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake)
+which is automatically updated.
+
+## About
+
 This is a flake for the Zen browser.
 
 Just add it to your NixOS `flake.nix` or home-manager:
